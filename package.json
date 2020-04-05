@@ -1,0 +1,24 @@
+{
+  "name": "raven",
+  "version": "1.0.0",
+  "description": "a node wrapper for flutterwave ravepay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pseudogarden/raven.git"
+  },
+  "keywords": [
+    "payments",
+    "api",
+    "node"
+  ],
+  "author": "Chima Nnadika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pseudogarden/raven/issues"
+  },
+  "homepage": "https://github.com/pseudogarden/raven#readme"
+}
